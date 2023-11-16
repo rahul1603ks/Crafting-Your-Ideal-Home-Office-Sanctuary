@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ZZE4B4rfk4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Crafting Your Ideal Home Office Sanctuary</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Crafting_Your_Ideal_Home_Office_Sanctuary_ORG">
+    <organization identifier="Crafting_Your_Ideal_Home_Office_Sanctuary_ORG">
+      <title>Crafting Your Ideal Home Office Sanctuary</title>
+      <item identifier="Crafting_Your_Ideal_Home_Office_Sanctuary_SCO" isvisible="true" identifierref="__6ZZE4B4rfk4_course_id_RES">
+        <title>Crafting Your Ideal Home Office Sanctuary</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ZZE4B4rfk4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5bCiM7CQyOT.png" />
+      <file href="mobile/64pFEujbclq.png" />
+      <file href="mobile/6UGxYMh42Fk.png" />
+      <file href="mobile/6KoH53g49gZ.png" />
+      <file href="mobile/5fh5TZ2lhry.png" />
+      <file href="mobile/5bZ3B9V7vrc.png" />
+      <file href="mobile/6U87TxJWB81_P_15_0_481_508.png" />
+      <file href="mobile/6U4Ytq6PBnd.png" />
+      <file href="mobile/6U4Ytq6PBnd_X.png" />
+      <file href="mobile/6EIeW2xTS59.png" />
+      <file href="mobile/6Kbi8hy3RIA.png" />
+      <file href="mobile/5x0ZiwNoJBr.png" />
+      <file href="mobile/5aReAPqTEPV.png" />
+      <file href="mobile/6GUaLnCZ2zn.png" />
+      <file href="mobile/6gwlchG9b6g.png" />
+      <file href="mobile/63oyMtSvSpl.png" />
+      <file href="mobile/5yrxZbBrzWS.png" />
+      <file href="mobile/6CqORgSsbWT.png" />
+      <file href="mobile/64rRbMbj6lD.png" />
+      <file href="mobile/6WJFDVr6d2C.png" />
+      <file href="mobile/5vcBNje4R3d.png" />
+      <file href="mobile/6EtJiLCX6oN.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/getting-started-link.html" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/docs-link.html" />
+      <file href="html5/lib/scripts/esm/Draggable.js" />
+      <file href="html5/lib/scripts/esm/.DS_Store" />
+      <file href="html5/lib/scripts/esm/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/esm/all.js" />
+      <file href="html5/lib/scripts/esm/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/esm/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/esm/TextPlugin.js" />
+      <file href="html5/lib/scripts/esm/gsap-core.js" />
+      <file href="html5/lib/scripts/esm/EasePack.js" />
+      <file href="html5/lib/scripts/esm/Observer.js" />
+      <file href="html5/lib/scripts/esm/index.js" />
+      <file href="html5/lib/scripts/esm/PixiPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSPlugin.js" />
+      <file href="html5/lib/scripts/esm/CustomEase.js" />
+      <file href="html5/lib/scripts/esm/Flip.js" />
+      <file href="html5/lib/scripts/esm/EaselPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/esm/utils/matrix.js" />
+      <file href="html5/lib/scripts/esm/utils/paths.js" />
+      <file href="html5/lib/scripts/esm/utils/strings.js" />
+      <file href="html5/lib/scripts/umd/Draggable.js" />
+      <file href="html5/lib/scripts/umd/.DS_Store" />
+      <file href="html5/lib/scripts/umd/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/umd/all.js" />
+      <file href="html5/lib/scripts/umd/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/umd/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/umd/gsap.js" />
+      <file href="html5/lib/scripts/umd/TextPlugin.js" />
+      <file href="html5/lib/scripts/umd/EasePack.js" />
+      <file href="html5/lib/scripts/umd/Observer.js" />
+      <file href="html5/lib/scripts/umd/PixiPlugin.js" />
+      <file href="html5/lib/scripts/umd/CustomEase.js" />
+      <file href="html5/lib/scripts/umd/Flip.js" />
+      <file href="html5/lib/scripts/umd/EaselPlugin.js" />
+      <file href="html5/lib/scripts/umd/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js" />
+      <file href="html5/lib/scripts/minified/.DS_Store" />
+      <file href="html5/lib/scripts/minified/gsap.min.js" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js.map" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js.map" />
+      <file href="html5/lib/scripts/minified/gsap.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js.map" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js.map" />
+      <file href="html5/lib/scripts/src/Draggable.js" />
+      <file href="html5/lib/scripts/src/.DS_Store" />
+      <file href="html5/lib/scripts/src/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/src/all.js" />
+      <file href="html5/lib/scripts/src/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/src/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/src/TextPlugin.js" />
+      <file href="html5/lib/scripts/src/gsap-core.js" />
+      <file href="html5/lib/scripts/src/EasePack.js" />
+      <file href="html5/lib/scripts/src/Observer.js" />
+      <file href="html5/lib/scripts/src/index.js" />
+      <file href="html5/lib/scripts/src/PixiPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSPlugin.js" />
+      <file href="html5/lib/scripts/src/CustomEase.js" />
+      <file href="html5/lib/scripts/src/Flip.js" />
+      <file href="html5/lib/scripts/src/EaselPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/src/utils/matrix.js" />
+      <file href="html5/lib/scripts/src/utils/paths.js" />
+      <file href="html5/lib/scripts/src/utils/strings.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5W5J3YNQtge.js" />
+      <file href="html5/data/js/5Z9HkFYohvC.js" />
+      <file href="html5/data/js/5WiQiXBkOLY.js" />
+      <file href="html5/data/js/5hb4cqG3DIx.js" />
+      <file href="html5/data/js/5fHTO8fAXa0.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6LgGlsmSucT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6B8ZMA3GZ99.js" />
+      <file href="html5/data/js/6lhfL2NZFcK.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
